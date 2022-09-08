@@ -12,7 +12,9 @@ ESLPod.com 的英语学习播客（Podcast）一直在 Apple iTunes 商店的英
 
 本仓库收藏了目前ESLpod上6本广受欢迎的独立教材+1本进阶教材，含音频+PDF。分享给想通过自学提升英语能力的人。
 
-![](./imgs/w.jpg)
+<div align=center>
+	<img src="./imgs/w.jpg">    
+</div>
 
 1. 《Introduction to the United States》
 2. 《A Day in the Life of Jeff》
@@ -24,7 +26,9 @@ ESLPod.com 的英语学习播客（Podcast）一直在 Apple iTunes 商店的英
 
 ### 1.《Introduction to the United States》
 
-![](./imgs/2.png)
+<div align=center>
+    <img src="./imgs/2.png">
+</div>
 
 《Introduction to the United States》是ESLPod系列教材的重头戏。
 
@@ -38,7 +42,9 @@ ESLPod.com 的英语学习播客（Podcast）一直在 Apple iTunes 商店的英
 
 ### 3.《A Day in the Life of Lucy》
 
-![](./imgs/b.gif)
+<div align=center>
+    <img src="./imgs/b.gif">
+</div>
 
 第二本《A Day in the Life of Jeff》和第三本《A Day in the Life of Lucy》是类似日记的形式，以第一视角记述了Jeff和Lusy从早晨起床开始一整天的工作生活经历和一些小心思、小情绪。
 
@@ -48,7 +54,9 @@ Jeff 就是 ESLPod 系列的主持人 Jeff McQuillan 啦，Lusy 是ESLPod 的合
 
 ### 4.《Interview Questions Answered》
 
-![](./imgs/4.png)
+<div align=center>
+    <img src="./imgs/4.png">
+</div>
 
 《Interview Questions Answered》一书中讨论了如下6个面试中最经常会问到的问题。
 
@@ -63,7 +71,9 @@ Jeff 就是 ESLPod 系列的主持人 Jeff McQuillan 啦，Lusy 是ESLPod 的合
 
 ### 5.《Using English at Work》
 
-![](./imgs/5.png)
+<div align=center>
+    <img src="./imgs/5.png">
+</div>
 
 《Using English at Work》是典型的商务英语教材，它共有10课，讨论了办公室中的各种英文工作场景(从上班到下班，全过程。)，内容包含每日工作中要用到的单词、短语和句型。外企工作者必备！
 
@@ -80,7 +90,9 @@ Jeff 就是 ESLPod 系列的主持人 Jeff McQuillan 啦，Lusy 是ESLPod 的合
 
 ### 6.《English for Business Meetings》
 
-![](./imgs/6.png)
+<div align=center>
+    <img src="./imgs/6.png">
+</div>
 
 《English for Business Meetings》是专为商务会议准备的英语课程。全书按照会议的环节分为10课，每一课又包含正式会议与非正式会议两个版本，让学习者同时熟悉正式和非正式会议情形下要使用到的不同英语表达。
 
@@ -99,7 +111,9 @@ Jeff 就是 ESLPod 系列的主持人 Jeff McQuillan 啦，Lusy 是ESLPod 的合
 
 ### 7.《Missing_Persons_English_Through_Stories》
 
-![](./imgs/7.jpg)
+<div align=center>
+    <img src="./imgs/7.jpg">
+</div>
 
 《Missing_Persons_English_Through_Stories》适用于希望提高听力和口语技能的高级英语人士。
 
