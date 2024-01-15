@@ -133,11 +133,6 @@ Jeff 就是 ESLPod 系列的主持人 Jeff McQuillan 啦，Lusy 是ESLPod 的合
 
 4、复习，复习只需要把以前学过的课程使用第二种或者第三种跟读方法跟读几遍就可以了。
 
-## 文末彩蛋
-
-考虑到科学上网网速的问题，无条件分享个G内的快速通道: https://pan.baidu.com/s/1jcfEW2tkVP4ClZanS3akHQ 提取码: 6fmd 。
-
-
 
 最后，祝大家学习愉快！
 
